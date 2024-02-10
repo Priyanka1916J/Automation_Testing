@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test-selenium">
+  <test thread-count="5" name="Test-ng">
+    <classes>
+      <class name="Day1.Facebook_Signup_ng"/>
+      <class name="Day1.NewTest"/>
+      <class name="Day1.Test_Signup"/>
+    </classes>
+  </test> <!-- Test-ng -->
+</suite> <!-- Test-selenium -->
